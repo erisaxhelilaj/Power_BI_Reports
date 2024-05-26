@@ -57,6 +57,13 @@ AVERAGEX(
 
 
 **"Management and Work Culture Report,"** divided into two sections: Management and Work Culture. </p>
+#### :arrow_right: Here's a breakdown of the visual elements:
+
+**1.** **Perceptions of Workplace Inclusivity:** This horizontal bar chart shows responses to how inclusive the workplace is perceived to be. The categories are "Inclusive," "Highly Inclusive," "Neutral," "Not Inclusive," and "Very Inclusive," with numerical values indicating the number of responses in each category. </p>
+**2.** **Sense of Belonging at Company:** Below the first chart is a pie chart titled "Sense of Belonging at Company" with slices representing different sentiments: "Definitely, it's where I belong," "I'm still trying to figure that out," "No, I feel like I don't fit in at all," "Sometimes, but other times I f..." and "Yes, it feels like home." Each slice is accompanied by a number and percentage of responses. </p>
+**3.** **Team and Department Communication Satisfaction:** This pie chart shows the level of satisfaction with team and department communication. The categories include "Neutral," "Satisfied," "Unsatisfied," "Very Satisfied," and "Very unsatisfied," each with corresponding response counts and percentages. </p>
+**4.** **Employee Outlook for the Next 2 Years:** The last section on the right side of the image is a line graph with a dotted line showing employee outlook for the next two years. The x-axis has categories "Agree," "Disagree," "Neutral (neither agree nor disagree)," "Totally Agree," and "Totally disagree," but there are no numerical values or response counts provided on the y-axis. </p>
+
 
 
 ***
