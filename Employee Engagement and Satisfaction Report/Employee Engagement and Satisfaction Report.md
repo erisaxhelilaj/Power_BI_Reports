@@ -1,9 +1,6 @@
 
 # <p align="center" style="margin-top: 0px;">📊 Employee Engagement and Satisfaction Report 📊
 
-Dashboard Link : [https://app.powerbi.com/groups/me/reports/384d017e-e935-44dc-9e7d-1626c1a36de1/ReportSection](https://app.powerbi.com/view?r=eyJrIjoiNTE5MzYyZGItYjI1Zi00MWE2LWE1YmEtMDlhMjBmNWRlYzcyIiwidCI6ImNhOWY5NDcwLWIxZjctNGI2NC1hNjM2LWUzOWYwMDE3NGQxOCIsImMiOjl9)
-
-
 This dashboard presents a detailed analysis of employee satisfaction. It visually displays survey results on job clarity, professional growth opportunities, break area accessibility, and overall office environment, all rated on a scale of 1 to 5.
 It contains various charts and metrics related to employee responses, including pie charts, bar graphs, and numerical statistics.
 
