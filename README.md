@@ -1,6 +1,3 @@
-# <p align="center" style="margin-top: 0px;">📊 Employee Engagement and Satisfaction Report 📊
-
-  
 ## 🧾 Reports Contents
 This repository contains my **[Power BI Reports](https://github.com/erisaxhelilaj/Power_BI_Reports)**!
 
@@ -9,7 +6,7 @@ This repository contains my **[Power BI Reports](https://github.com/erisaxhelila
 
 ***
 
-## 📊 Employee Engagement and Satisfaction Report 
+# <p align="center" style="margin-top: 0px;">📊 Employee Engagement and Satisfaction Report 📊
 
 <p align="center" style="margin-bottom: 0px !important;">
 <img src="https://github.com/erisaxhelilaj/Power_BI_Reports/blob/master/Employee%20Engagement%20and%20Satisfaction%20Report/DataSets/Overview.PNG" width="900" height="550">
@@ -26,8 +23,7 @@ Check out my **Report** on [GitHub](https://github.com/erisaxhelilaj/Power_BI_Re
 **Available Data** on [GitHub](https://github.com/erisaxhelilaj/Power_BI_Reports/tree/master/Employee%20Engagement%20and%20Satisfaction%20Report/DataSets)
 ***
 
-
-## 📊 Recruiting Report - Performance
+# <p align="center" style="margin-top: 0px;">📊 Recruiting Report - Performance 📊
 
 <p align="center" style="margin-bottom: 0px !important;">
 <img src="https://github.com/erisaxhelilaj/Power_BI_Reports/blob/master/Recruiting%20Report%20-%20Performance/DataSets/Recruiting.PNG" width="900" height="550">
