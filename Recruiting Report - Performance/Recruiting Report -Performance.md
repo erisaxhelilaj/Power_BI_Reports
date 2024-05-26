@@ -1,6 +1,6 @@
 # <p align="center" style="margin-top: 0px;">📊 Recruiting Report - Performance 📊
 
-This dashboard used to track the efficiency and outcomes of a recruitment process over a specified period.
+This dashboard used to track the efficiency and outcomes of a recruitment process over a specified period. It provides insights into the recruitment process, including interview distribution, candidate progression through stages, and the effectiveness of various recruitment sources. The report highlights important data points like the average number of interviews, total hires, and the size of the candidate pool. Overall, it offers a visual representation of recruitment activities and outcomes within the specified timeframe.
 
 
 ## 📊 Overview Report 
