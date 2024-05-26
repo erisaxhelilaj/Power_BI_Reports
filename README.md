@@ -1,12 +1,11 @@
 # <p align="center" style="margin-top: 0px;">📊 Employee Engagement and Satisfaction Report 📊
 
-Dashboard Link : [https://app.powerbi.com/groups/me/reports/384d017e-e935-44dc-9e7d-1626c1a36de1/ReportSection](https://app.powerbi.com/view?r=eyJrIjoiNTE5MzYyZGItYjI1Zi00MWE2LWE1YmEtMDlhMjBmNWRlYzcyIiwidCI6ImNhOWY5NDcwLWIxZjctNGI2NC1hNjM2LWUzOWYwMDE3NGQxOCIsImMiOjl9)
-
-This repository contains my **[Power BI Reports](https://github.com/erisaxhelilaj/Power_BI_Reports)**!
   
 ## 🧾 Reports Contents
+This repository contains my **[Power BI Reports](https://github.com/erisaxhelilaj/Power_BI_Reports)**!
 
 - [Employee Engagement and Satisfaction Report](https://github.com/erisaxhelilaj/Power_BI_Reports/tree/master/Employee%20Engagement%20and%20Satisfaction%20Report)
+- [Recruiting Report - Performance](https://github.com/erisaxhelilaj/Power_BI_Reports/tree/master/Recruiting%20Report%20-%20Performance)
 
 ***
 
@@ -26,6 +25,22 @@ Check out my **Report** on [GitHub](https://github.com/erisaxhelilaj/Power_BI_Re
  
 **Available Data** on [GitHub](https://github.com/erisaxhelilaj/Power_BI_Reports/tree/master/Employee%20Engagement%20and%20Satisfaction%20Report/DataSets)
 ***
+
+
+## 📊 Recruiting Report - Performance
+
+<p align="center" style="margin-bottom: 0px !important;">
+<img src="https://github.com/erisaxhelilaj/Power_BI_Reports/blob/master/Recruiting%20Report%20-%20Performance/DataSets/Recruiting.PNG" width="900" height="550">
+
+
+### Case Description
+  
+The report includes various charts and metrics related to recruitment activities, such as bar graphs showing the number of interviews per job position, pie charts illustrating candidate stages, and numerical statistics on candidate sources and recruitment outcomes. </p> 
+It resembles a typical business intelligence dashboard used to visualize and analyze recruitment processes and outcomes within an organization.
+
+
+Check out my **Report** on [GitHub](https://github.com/erisaxhelilaj/Power_BI_Reports/blob/master/Recruiting%20Report%20-%20Performance/Recruiting%20Report%20-Performance.md)
+ 
 
 
 
