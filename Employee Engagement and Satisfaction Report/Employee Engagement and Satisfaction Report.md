@@ -49,13 +49,32 @@ AVERAGEX(
 **7.** **Button Options:** On the top right, there are filter options for the visualization, which include buttons for **"Management"** and **"Work Culture."**
 
 
+***
+## 📊 Management & Work Culture 
+
+<p align="center" style="margin-bottom: 0px !important;">
+<img src="https://github.com/erisaxhelilaj/Power_BI_Reports/blob/master/Employee%20Engagement%20and%20Satisfaction%20Report/DataSets/Management%20%26%20Work%20Culture.PNG" width="900" height="550">
 
 
+**"Management and Work Culture Report,"** divided into two sections: Management and Work Culture. </p>
 
 
+***
+## 📊 Experience & Work Environment 
+
+<p align="center" style="margin-bottom: 0px !important;">
+<img src="https://github.com/erisaxhelilaj/Power_BI_Reports/blob/master/Employee%20Engagement%20and%20Satisfaction%20Report/DataSets/Experience%20%26%20Work%20Environment.PNG" width="900" height="550">
 
 
+This report appears to be a graphical representation of survey results regarding employee satisfaction at a company. The report is divided into two main sections: **Employee Experience and Work Environment.** </p>
+#### :arrow_right: Here's a breakdown of the visual elements:
 
+**1.** A pie chart titled **"Recommending Company as a Workplace".** </p>
+**2.** A bar chart titled **"Satisfaction with Clarity of Job Responsibilities":** displays responses on a scale from 1 to 5, with the majority of responses in category 3.  </p>
+**3.** Another bar chart titled **"Satisfaction with Growth Opportunities:"** shows responses on a scale from 1 to 5, with the majority of responses in categories 3 and 4.  </p>
+**4.** A bar chart titled **"Favorite Office Features"** lists features such as Open Spaces, Break Areas, Ergonomic Furniture, Interior Design, Natural Lighting, Private Workstations, and Recreation Areas, with Break Areas receiving the highest number of responses (45) and Ergonomic Furniture the lowest (7).  </p>
+**5.** A pie chart titled **"Satisfaction with the Environment and Office:"** shows responses on a scale from 1 to 5, with the majority of responses in category 4 (97 responses, 34.52%).   </p>
+**6.** A bar chart titled **"Satisfaction with Workplace Break Areas:"** shows responses on a scale from 1 to 5, with a relatively even distribution among the categories. </p>
 
 
 
